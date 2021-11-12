@@ -16,3 +16,5 @@
 - Python
 - Sqlite
 - Jupyter notebook
+## 4. Notebook
+https://github.com/alessandra-barbosa/star_jeans/blob/main/m09_Aula1_ETL.ipynb
