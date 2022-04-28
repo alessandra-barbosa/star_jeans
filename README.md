@@ -3,6 +3,8 @@
 ![Star jeans](https://user-images.githubusercontent.com/70095554/134515176-40479ed9-a0d4-47cb-b290-b5bcf75828bd.png)
 # Product pricing project based on competition 
 
+Use of webscraping techniques to obtain information related to the product using competitors' websites as a benchmark to build a database where you can get important insights for the business.
+
 ## 1. Business problem
 - What is the best selling price for the pants?
 - How many types of pants and their colors for the initial product?
